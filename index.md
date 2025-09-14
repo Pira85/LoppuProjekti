@@ -33,5 +33,14 @@
 <h2>Tehtävä 8</h2>
 <p>"####The Latest News from [the BBC](www.bbc.com/news)"</p>
 
+<h2>Tehtävä 9</h2>
+<p>"Do you want to see [something fun]!
+
+Well, do I have [another fun place]!
+
+[a fun place]: www.zombo.com
+[another fun place]: www.stumbleupon.com" </p>
+
+
 
 
